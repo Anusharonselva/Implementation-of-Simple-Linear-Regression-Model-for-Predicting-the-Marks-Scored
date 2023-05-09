@@ -145,8 +145,16 @@ print('RMSE = ',rmse)
 
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
-[ml ex02.pdf](https://github.com/Anusharonselva/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/files/11427787/ml.ex02.pdf)
+![1](https://user-images.githubusercontent.com/119405600/237008440-b442bffc-c425-434a-9462-924050a710be.png)
+![2](https://user-images.githubusercontent.com/119405600/237008449-8684c536-eab9-470d-b44f-cdb6d229e1b2.png)
+![3](https://user-images.githubusercontent.com/119405600/237008459-b74ab177-d7fb-4429-b68d-fdd85a418192.png)
+![4](https://user-images.githubusercontent.com/119405600/237008479-a90f5a28-fd42-4e35-b5ca-d4e1466ecca8.png)
+![5](https://user-images.githubusercontent.com/119405600/237008489-524abc65-d5ee-4f1e-b04d-eacf5a90c5c8.png)
+![6](https://user-images.githubusercontent.com/119405600/237008498-077b8a31-7013-4e44-8918-934c72176cea.png)
+![7](https://user-images.githubusercontent.com/119405600/237008519-4df8163c-3b09-4d70-afec-bc38655bd16b.png)
+![8](https://user-images.githubusercontent.com/119405600/237008530-fd4f9bef-9ecf-4aec-9da3-189871f5bfc3.png)
+![9](https://user-images.githubusercontent.com/119405600/237008541-bb4ba6d2-7379-4f92-872f-e2ff7096d1fb.png)
+
 
 
 ## Result:
