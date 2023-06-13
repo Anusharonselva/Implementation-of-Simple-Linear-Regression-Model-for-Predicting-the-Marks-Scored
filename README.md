@@ -77,31 +77,42 @@ print("RMSE = ",rmse)
 
 
 ## Output:
-![1](https://user-images.githubusercontent.com/119405600/237008440-b442bffc-c425-434a-9462-924050a710be.png)
 
+1.df.head()
 
-![2](https://user-images.githubusercontent.com/119405600/237008449-8684c536-eab9-470d-b44f-cdb6d229e1b2.png)
+![Screenshot (278)](https://github.com/Anusharonselva/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405600/7a6adddd-222b-459b-a131-20b32a154332)
 
+2.df.tail()
 
-![3](https://user-images.githubusercontent.com/119405600/237008459-b74ab177-d7fb-4429-b68d-fdd85a418192.png)
+![278 1](https://github.com/Anusharonselva/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405600/ec7005e5-434a-4111-aab0-42fc0a802636)
 
+3.Array value of X
 
-![4](https://user-images.githubusercontent.com/119405600/237008479-a90f5a28-fd42-4e35-b5ca-d4e1466ecca8.png)
+![Screenshot (280)](https://github.com/Anusharonselva/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405600/29373c6e-bed5-4e72-9e5f-bf2194658b50)
 
+4.Array value of Y
 
-![5](https://user-images.githubusercontent.com/119405600/237008489-524abc65-d5ee-4f1e-b04d-eacf5a90c5c8.png)
+![Screenshot (281)](https://github.com/Anusharonselva/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405600/69588fa7-63a0-4f51-9cb3-fd5dc7941ed7)
 
+5.Values of Y prediction
 
-![6](https://user-images.githubusercontent.com/119405600/237008498-077b8a31-7013-4e44-8918-934c72176cea.png)
+![Screenshot (281) 1](https://github.com/Anusharonselva/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405600/87fa6b40-8743-4982-8a75-65cd8773f92b)
 
+6.Array values of Y test
 
-![7](https://user-images.githubusercontent.com/119405600/237008519-4df8163c-3b09-4d70-afec-bc38655bd16b.png)
+![Screenshot (281) 2](https://github.com/Anusharonselva/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405600/d633383d-8a1a-448b-b0bb-0a17e162df09)
 
+7.Training Set Graph
 
-![8](https://user-images.githubusercontent.com/119405600/237008530-fd4f9bef-9ecf-4aec-9da3-189871f5bfc3.png)
+![Screenshot (283)](https://github.com/Anusharonselva/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405600/932837c0-0a72-4a42-a604-fa92c300a55d)
 
+8.Test Set Graph
 
-![9](https://user-images.githubusercontent.com/119405600/237008541-bb4ba6d2-7379-4f92-872f-e2ff7096d1fb.png)
+![Screenshot (284)](https://github.com/Anusharonselva/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405600/83449558-5a22-434d-925f-f36466b762a8)
+
+9.Values of MSE, MAE and RMSE
+
+![Screenshot (285)](https://github.com/Anusharonselva/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119405600/41533123-0f36-4884-889c-4e0741c7b85f)
 
 
 
